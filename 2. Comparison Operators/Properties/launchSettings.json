@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "2. Comparison Operators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

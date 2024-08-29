@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "9.3 Delegate and Lambda Expressions": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

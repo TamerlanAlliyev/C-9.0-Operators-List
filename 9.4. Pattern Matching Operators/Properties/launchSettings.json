@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "9.4. Pattern Matching Operators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

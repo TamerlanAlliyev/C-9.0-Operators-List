@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "3. Logical Operators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

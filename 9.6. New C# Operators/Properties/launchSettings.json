@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "9.6. New C# Operators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

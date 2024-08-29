@@ -1,0 +1,14 @@
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\bin\Debug\net8.0\1. Arithmetic Operators.exe
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\bin\Debug\net8.0\1. Arithmetic Operators.deps.json
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\bin\Debug\net8.0\1. Arithmetic Operators.runtimeconfig.json
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\bin\Debug\net8.0\1. Arithmetic Operators.dll
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\bin\Debug\net8.0\1. Arithmetic Operators.pdb
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\1. Arithmetic Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\1. Arithmetic Operators.AssemblyInfoInputs.cache
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\1. Arithmetic Operators.AssemblyInfo.cs
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\1. Arithmetic Operators.csproj.CoreCompileInputs.cache
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\1. Arithmetic Operators.dll
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\refint\1. Arithmetic Operators.dll
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\1. Arithmetic Operators.pdb
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\1. Arithmetic Operators.genruntimeconfig.cache
+C:\Users\G713RW\Desktop\Programming Development\C#\C# - Beginner and Intermediate Level\2.Operators\Operator\1. Arithmetic Operators\obj\Debug\net8.0\ref\1. Arithmetic Operators.dll

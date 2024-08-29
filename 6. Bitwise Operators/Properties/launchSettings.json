@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "6. Bitwise Operators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "9.5. Tuple-Related Operators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

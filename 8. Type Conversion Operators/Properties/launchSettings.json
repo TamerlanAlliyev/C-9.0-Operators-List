@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "8. Type Conversion Operators": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
